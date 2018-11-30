@@ -1,10 +1,10 @@
 <scheme name="Chester" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-11-30T00:16:30</property>
+    <property name="created">2018-11-30T17:24:40</property>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-11-30T00:16:43</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2018-11-30T17:24:49</property>
     <property name="originalScheme">Chester</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -55,7 +55,8 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fdebd" />
+        <option name="FOREGROUND" value="a9680" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -223,7 +224,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffc83f" />
+        <option name="FOREGROUND" value="e2b139" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -1318,7 +1319,7 @@
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8a8e9e" />
+        <option name="FOREGROUND" value="a5aabc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1332,7 +1333,7 @@
     </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ecebeb" />
+        <option name="FOREGROUND" value="9a9999" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1343,7 +1344,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="667e85" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1354,13 +1355,13 @@
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="cbcaca" />
+        <option name="FOREGROUND" value="bfbebe" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ecebeb" />
+        <option name="FOREGROUND" value="a09f9f" />
       </value>
     </option>
     <option name="JFLEX$COMMENT">
@@ -1751,7 +1752,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
@@ -2087,7 +2088,7 @@
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fffefd" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2917,6 +2918,11 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff708e" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_IMPORTED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
